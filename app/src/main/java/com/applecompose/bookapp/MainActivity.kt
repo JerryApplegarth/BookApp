@@ -32,5 +32,5 @@ class MainActivity : ComponentActivity() {
 
 
 
-// https://github.com/JerryApplegarth/Book-App.git
+// https://github.com/JerryApplegarth/BookApp.git
 
